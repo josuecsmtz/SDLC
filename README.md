@@ -1,7 +1,7 @@
 # 🖥️ Ciclo de Vida del Desarrollo de Software (SDLC)
 
 ![Asignatura](https://img.shields.io/badge/Asignatura-Metodolog%C3%ADa%20de%20la%20Programaci%C3%B3n-lightgrey)
-![Fecha](https://img.shields.io/badge/Fecha-XX--09--2025-blue)
+![Fecha](https://img.shields.io/badge/Fecha-18--09--2025-blue)
 
 <div style="text-align: center;">
   <img src="https://blog.testlodge.com/wp-content/uploads/2018/08/software-development-life-cycle-1024x538.png" alt="SDLC" width="400">
