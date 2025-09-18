@@ -48,6 +48,7 @@ Imagina que vas a construir una **casa**; no empiezas a poner ladrillos al azar.
   <img src="https://images.adsttc.com/media/images/5b8d/e80e/f197/cc85/dc00/0113/original/GIF-01-.gif?1536026632" alt="SDLC" width="250">
 </div>
 <br>
+
 Este **proceso** permite que el **software** se desarrolle de manera **eficiente**, dentro de un **presupuesto establecido** y en el **tiempo acordado**, asegurando que cumpla con las **expectativas del cliente**.  
 
 El **SDLC** abarca desde el **inicio del proyecto** hasta el **retiro del sistema de información**, incluyendo su **desarrollo**, **implementación** y **mantenimiento**. Un **modelo de ciclo de vida del software** puede describir cómo se **desarrolla el software** o cómo debería **desarrollarse**.
